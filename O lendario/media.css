@@ -1,0 +1,29 @@
+@media screen and (max-width: 790px) {
+
+
+    
+    .container{
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 90%;   
+        height: 90%;
+        
+    }
+
+    .a1{
+
+        top: 40%;   
+
+    }
+
+    .a2{
+
+        top: 40%;
+
+    }
+
+
+    
+}
